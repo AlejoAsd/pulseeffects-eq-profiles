@@ -2,7 +2,7 @@
 This repository contains profiles for the PulseEffects equalizer.
 
 ## Installation
-Go to the [PulseEffects](https://github.com/wwmm/pulseeffects/wiki/Package-Repositories) package repositories to install it on your system.
+Follow the steps shown in the [PulseEffects wiki](https://github.com/wwmm/pulseeffects/wiki/Package-Repositories) to install PulseEffects on your system.
 
 Copy the contents of this repository to `~/.config/PulseEffects`.
 
