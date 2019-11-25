@@ -1,5 +1,5 @@
 # PulseEffects EQ Profiles
-This repository contains profiles for the PulseEffects equalizer.
+This repository contains EQ profiles for the PulseEffects equalizer. It specifically contains EQ profiles for headphones I use.
 
 ## Installation
 Follow the steps shown in the [PulseEffects wiki](https://github.com/wwmm/pulseeffects/wiki/Package-Repositories) to install PulseEffects on your system.
